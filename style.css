@@ -1,0 +1,111 @@
+img{
+    max-width: 100%;
+}
+.imagenn{
+    width: 90px;
+}
+.menunn{
+    margin-left: 480px;
+}
+
+.nummmmm{
+    padding: 30px 0;
+}
+
+.about-section{
+    background-color: rgb(248, 244, 244);
+}
+
+.about-section h5{
+    
+    margin-top: 122px;
+}
+.text-tag h5{
+    margin-top: 50px;
+
+}
+.text-taggggggg{
+    margin-top: 40px;
+}
+
+
+.prizing-item{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(240, 247, 247);
+    display: inline-block;
+    border-radius: 50%;
+    
+}
+.prizing-weight{
+    width: 31%;
+    margin-left: 20px;
+}
+
+.prizing-weight-2{
+    width: 23%;
+    margin-left: 20px;
+}
+
+
+.prizing-item h1{
+margin-top: 20px;
+font-size: 50px;
+}
+.prizing-item p{
+    color: grey;
+    
+}
+.service-section h4{
+    letter-spacing: -2px;
+}
+
+
+.prizing-item-2 h1{
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+
+.prizing-item-2{
+    position: relative;
+}
+
+
+.prizing-item-2 img{
+    width: 100px;
+    position: absolute;
+    top: -80px;
+    left: 0px;
+}
+.prizing-item-2 h3{
+    
+}
+.form-tag{
+    width: 40%;
+    display: inline-block;
+}
+.form-tag2{
+    margin-left: 19px;
+}
+.amiii{
+    width: 532px;
+    box
+}
+.text-amer{
+    margin-top: 100px;
+    
+}
+.contact-section{
+    background-color: rgb(248, 250, 251);
+}
+.contact-style{
+    background-color: #fff;
+}
+
+
+
+.fixed-section{
+    margin-top: 150px;
+
+}
