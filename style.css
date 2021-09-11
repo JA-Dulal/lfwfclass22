@@ -49,7 +49,7 @@ img{
 
 
 .text-taggggggg a{
-    background-color:#8491ff ;
+    background-color:#8491ff !important;
     color: #fff;
 }
 .text-taggggggg a:hover{
