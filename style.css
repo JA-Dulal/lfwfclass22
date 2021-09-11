@@ -44,6 +44,46 @@ img{
 }
 
 
+
+
+
+
+
+.text-taggggggg a:hover{
+    background-color: #5465fa;
+    color: #fff;
+
+}
+.text-tag a{
+    background-color: #8491ff;
+    color: #fff;
+}
+.text-tag a:hover{
+    background-color: #5465fa;
+    
+    color: #fff;
+}
+.Number-counter{
+    background-color: #8491ff;
+
+}
+.amitomar a{
+    background-color: #8491ff;
+    color: #fff;
+
+}
+.amitomar a:hover{
+    background-color: #5465fa;
+    color: #fff;
+
+}
+
+
+
+
+
+
+
 .prizing-item h1{
 margin-top: 20px;
 font-size: 50px;
